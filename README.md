@@ -1,3 +1,4 @@
 # MyRosalia
-Bus Ticket Booking Program /n
-Valentinus Aryo Saputro - 21120121140100
+Bus Ticket Booking Program
+
+Author : Valentinus Aryo Saputro - 21120121140100
